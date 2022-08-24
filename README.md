@@ -4,13 +4,13 @@
 <h3 align="center">Final Term Project Report, Summer 2021-22</h3>
 <h3 align="center">Course: OBJECT ORIENTED PROGRAMMING 1 [N]</h3>
 
-<h3>OOP Principals covered -</h3>
+<h3>OOP Principals Covered -</h3>
 1. Encapsulation<br>
 2. Abstraction<br>
 3. Inheritance<br>
 4. Polymorphism<br>
 
-<h3>Project Requirements -</h3>
+<h3>Project Requirements Covered-</h3>
 1.	At least 2 types of Users<br>
 2.	Object Oriented Programming Concepts<br>
 3.	Display Features<br>
