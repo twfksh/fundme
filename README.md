@@ -1,4 +1,4 @@
-#OOP1 Final Project [Section - N]
+##OOP1 Final Project [Section - N]
 ## FundMe - A Digital Fundraising Solution
 
 ##OOP Principals covered -
