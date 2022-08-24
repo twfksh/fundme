@@ -1,0 +1,8 @@
+Full name: tanvir
+Username: tanvir
+Password: 12345678
+Email: tanvir@gmail.com
+Security Question: First pet's name?
+Answer: kutte
+Time & Date: 09:14 am, 23/08/2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

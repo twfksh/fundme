@@ -1,0 +1,60 @@
+~~~~~~~~~~~~~~~Campaign~~~~~~~~~~~~~~~
+Campaign ID: 03792cf6
+Campaign name: Campaign X
+Campaigner: sabbir
+Name: Sabbir
+Target amount: 10000
+Required documents: null
+Campaign poster: null
+Time & Date: 21:06 pm, 22/08/2022
+Approved: false
+Application: application x
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~Campaign~~~~~~~~~~~~~~~
+Campaign ID: 790d00e0
+Campaign name: Campaign Y
+Campaigner: sabbir
+Name: Sabbir
+Target amount: 5000
+Required documents: null
+Campaign poster: null
+Time & Date: 21:06 pm, 22/08/2022
+Approved: false
+Application: application y
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~Campaign~~~~~~~~~~~~~~~
+Campaign ID: 454d1ce2
+Campaign name: sfafydfhs
+Campaigner: sabbir
+Name: sabbir
+Target amount: 10000
+Required documents: null
+Campaign poster: null
+Time & Date: 22:11 pm, 22/08/2022
+Approved: false
+Application: jahsgjasgd
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~Campaign~~~~~~~~~~~~~~~
+Campaign ID: 4bb45965
+Campaign name: hguyfxhs
+Campaigner: tanvir
+Name: iuotrio
+Target amount: 745745945450
+Required documents: D:\Files\Wallpapers\7cDoyzS.png
+Campaign poster: D:\Files\Wallpapers\48087.jpg
+Time & Date: 22:18 pm, 22/08/2022
+Approved: false
+Application: opdfkgok
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~Campaign~~~~~~~~~~~~~~~
+Campaign ID: 8a80e2f6
+Campaign name: nodi vangon
+Campaigner: sabbir
+Name: Sabbir
+Target amount: 10000
+Required documents: null
+Campaign poster: null
+Time & Date: 09:12 am, 23/08/2022
+Approved: false
+Application: i need some money.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

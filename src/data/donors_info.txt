@@ -1,0 +1,37 @@
+~~~~~~~~~~~~~~~Donors~~~~~~~~~~~~~~~
+Campaign name: Campaign Y
+Anonymus donation from Mr. X
+Time & Date: 07:16 am, 23/08/2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~Donors~~~~~~~~~~~~~~~
+Campaign name: Campaign X
+Full name: Mr. X
+Email: mrx@mail.com
+Name on card: Mr. X
+Card #3456789023452345
+Time & Date: 07:18 am, 23/08/2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~Donors~~~~~~~~~~~~~~~
+Campaign name: Campaign Y
+Full name: Mr. Z
+Email: mrz@mail.com
+Name on card: Mr. Z
+Card #2345324365456787
+Time & Date: 10:04 am, 23/08/2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~Donors~~~~~~~~~~~~~~~
+Campaign name: Campaign Y
+Full name: Toufiq
+Email: toufiq@mail.com
+Name on card: Toufiq Shishir
+Card #3423435434234354
+Time & Date: 10:07 am, 23/08/2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~Donors~~~~~~~~~~~~~~~
+Campaign name: Campaign Y
+Full name: Sadman
+Email: sadman@mail.com
+Name on card: Sadman Sakib
+Card #4323435434235456
+Time & Date: 10:10 am, 23/08/2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
