@@ -58,7 +58,7 @@
 
 <h3>Project Description:</h3>
 
-<h4>●	User Types –</h4
+<h4>●	User Types –</h4>
   1. Admin<br>
   2. Campaigner<br>
   3. Donor<br>
