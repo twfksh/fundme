@@ -1,26 +1,26 @@
 <h1>OOP1 Final Project [Section - N]</h1>
-<br>
+
 <h2>FundMe - A Digital Fundraising Solution</2>
 
 <h3>OOP Principals covered -</h3>
-1. Encapsulation
-2. Abstraction
-3. Inheritance
-4. Polymorphism
+1. Encapsulation<br>
+2. Abstraction<br>
+3. Inheritance<br>
+4. Polymorphism<br>
 
 <h3>ect Requirements -</h3>
-1.	At least 2 types of Users
-2.	Object Oriented Programming Concepts
-3.	Display Features
-4.	Insert
-5.	Delete
-6	 Search
-7.	Package
-8. Exception Handling
-9. File I/O
+1.	At least 2 types of Users<br>
+2.	Object Oriented Programming Concepts<br>
+3.	Display Features<br>
+4.	Insert<br>
+5.	Delete<br>
+6	 Search<br>
+7.	Package<br>
+8. Exception Handling<br>
+9. File I/O<br>
  
-<h3>rtment of Computer Science</3>
-<h3>l Term Project Report, Summer 2021-22</h3>
+<h3>Department of Computer Science</3>
+<h3>Final Term Project Report, Summer 2021-22</h3>
 
 <h3>Course: OBJECT ORIENTED PROGRAMMING 1 [N]	Group	G02</h3>
 
@@ -86,9 +86,34 @@ Admin manages the campaigns and the whole system of the application. They can pe
   •	Donor<br>
 ●	User Features -<br>
 <br>
-###Feature Name	- Executor;	Feature Description<br>
-Sign In	- Campaigner, Admin; As a user of the system, they can perform sign-in to the system to access the features of the system.<br>
-Signup or Register - Campaigner, Admin;	To become a user of the system, they can sign-up have certain feature access of the system based on their user role.<br>
-CRUD Operations -	Campaigner, Admin;	The user can perform CRUD (create, read, update, delete) operations by logging in to their user account.<br>
-Donate, MakePayment -	Donor;	Donors can donate or more specifically MakePayment for their preferred campaign through Donate.<br>
-
+<table>
+ <thread align="center">
+  <tr>
+   <td>Feature Name</td>
+   <td>Executor</td>
+   <td>Feature Description</td>
+  </tr>
+ </thread>
+ <tbody>
+  <tr>
+   <td>Sign In, Register Campaign</td>
+   <td>Campaigner, Admin</td>
+   <td>As a user of the system, they can perform sign-in to the system to access the features of the system.</td>
+  </tr>
+  <tr>
+   <td>Signup or Register</td>
+   <td>Campaigner, Admin</td>
+   <td>To become a user of the system, they can sign-up have certain feature access of the system based on their user role.</td>
+  </tr>
+  <tr>
+   <td>CRUD Operations</td>
+   <td>Campaigner, Admin</td>
+   <td>The user can perform CRUD (create, read, update, delete) operations by logging in to their user account.</td>
+  </tr>
+  <tr>
+   <td>Donate, MakePayment</td>
+   <td>Donor</td>
+   <td>Donors can donate or more specifically MakePayment for their preferred campaign through Donate.</td>
+  </tr>
+ </tbody>
+</table>
