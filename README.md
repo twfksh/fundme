@@ -4,8 +4,6 @@
 <h3 align="center">Final Term Project Report, Summer 2021-22</h3>
 <h3 align="center">Course: OBJECT ORIENTED PROGRAMMING 1 [N]</h3>
 
-<h2 align="center">FundMe - A Digital Fundraising Solution</2>
-
 <h3>OOP Principals covered -</h3>
 1. Encapsulation<br>
 2. Abstraction<br>
