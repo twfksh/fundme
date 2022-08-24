@@ -8,15 +8,15 @@
 4. Polymorphism
 
 ##Project Requirements -
-•	At least 2 types of Users
-•	Object Oriented Programming Concepts
-•	Display Features
-•	Insert
-•	Delete
-•	Search
-•	Package
-•	Exception Handling
-•	File I/O
+1.	At least 2 types of Users
+2.	Object Oriented Programming Concepts
+3.	Display Features
+4.	Insert
+5.	Delete
+6	 Search
+7.	Package
+8. Exception Handling
+9. File I/O
  
 ##Department of Computer Science
 ##Final Term Project Report, Summer 2021-22
