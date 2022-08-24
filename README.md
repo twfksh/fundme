@@ -80,11 +80,11 @@ Admin manages the campaigns and the whole system of the application. They can pe
 6.	If necessary, users can ask for a removal of their data from our database, we guarantee trust, what we reflect through our work.<br>
 <br>
 <h3>Project Description:</h3>
-●	User Types –<br>
-  •	Admin<br>
-  •	Campaigner<br>
-  •	Donor<br>
-●	User Features -<br>
+<h4>●	User Types –</h4
+  1. Admin<br>
+  2. Campaigner<br>
+  3. Donor<br>
+<h4>User Features -</h4>
 <br>
 <table>
  <thread align="center">
